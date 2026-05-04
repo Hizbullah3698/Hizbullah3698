@@ -1,22 +1,31 @@
 # Hizbullah Wazir
-Software Engineer based in Dubai
 
-I build production-ready web applications and explore AI-powered systems, with a focus on performance, scalability, and clean architecture.
+Software Engineer · Dubai, UAE
+Building production web apps with AI integration — focused on clean architecture,
+data-driven systems, and scalable backends.
 
 ## Focus
-- High-performance frontend (React, Next.js, TypeScript)
-- Backend systems (Node.js, APIs, databases)
-- AI-powered features (semantic search, chatbots, embeddings)
+
+- Full-stack development (React, Next.js, Node.js, TypeScript)
+- AI integration (OpenAI APIs, vector databases, semantic search)
+- Data pipelines, automation, and backend systems
 
 ## Selected Work
-- **EstateFlow** – Real estate dashboard with advanced filtering and comparison features  
-- **PickPic** – AI image discovery platform using semantic search  
-- **WithGrace** – Migrated legacy application to React 18, improving performance and UX  
+
+- **PickPic** – AI image discovery platform (Next.js 15, OpenAI embeddings, 
+  Qdrant vector DB, PostgreSQL, AWS S3)
+- **EstateFlow** – Real estate analytics dashboard for Dubai market 
+  (React 19, Gemini AI, Bayut API, advanced filtering)
+- **WithGrace** – Migrated legacy app to React 18, improving 
+  performance and UX
 
 ## Tech Stack
-React · Next.js · TypeScript · Node.js · MongoDB · MySQL · Tailwind CSS
+
+React · Next.js · TypeScript · Node.js · PostgreSQL · MongoDB · 
+REST APIs · OpenAI · Tailwind CSS
 
 ## Links
-Portfolio: https://hizbullah-wazir.vercel.app  
-GitHub: https://github.com/Hizbullah3698  
-LinkedIn: https://linkedin.com/in/hizbullahwazir
+
+[Portfolio](https://hizbullah-wazir.vercel.app) · 
+[GitHub](https://github.com/Hizbullah3698) · 
+[LinkedIn](https://linkedin.com/in/hizbullahwazir)
